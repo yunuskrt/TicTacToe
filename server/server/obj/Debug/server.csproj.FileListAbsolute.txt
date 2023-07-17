@@ -1,0 +1,26 @@
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\bin\Debug\server.exe.config
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\bin\Debug\server.exe
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\bin\Debug\server.pdb
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.Form1.resources
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.exe
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.pdb
+C:\Users\lenovo\Desktop\Multiplayer_TicTacToe\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\bin\Debug\server.exe.config
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.exe
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.pdb
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\bin\Debug\server.exe
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\bin\Debug\server.pdb
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.Form1.resources
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Argun Kerestecioğlu\OneDrive\Masaüstü\TTT\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\bin\Debug\server.exe.config
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\bin\Debug\server.exe
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\bin\Debug\server.pdb
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\obj\Debug\server.Form1.resources
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\obj\Debug\server.exe
+C:\Users\tolga\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\server\server\obj\Debug\server.pdb
